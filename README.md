@@ -11,7 +11,7 @@
 
 - A passionate Full Stack developer
 - Programming cool stuff in Minecraft at spare time
-- Currently working at Relyens Group as a Full Stack developer
+- Currently working at Worldline as a Full Stack developer
 - Personal website [link](https://www.martinjourjon.fr)
 - I’m currently open for an Intern or a new job opportunity for this 2023 summer (2-3 months), this is [my resume](https://martinjourjon.fr/files/CV_JOURJON_Martin.pdf)
 
